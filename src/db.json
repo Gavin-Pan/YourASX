@@ -1,0 +1,34 @@
+{
+  "generalNews": [
+    {
+      "id": 1,
+      "title": "General News Article 1",
+      "author": "Author 1",
+      "body": "Summary of general news article 1",
+      "link": "http://example.com/general-news-1"
+    },
+    {
+      "id": 2,
+      "title": "General News Article 2",
+      "author": "Author 2",
+      "body": "Summary of general news article 2",
+      "link": "http://example.com/general-news-2"
+    }
+  ],
+  "companyNews": [
+    {
+      "id": 1,
+      "title": "Company News Article 1",
+      "author": "Author 1",
+      "body": "Summary of company news article 1",
+      "link": "http://example.com/company-news-1"
+    },
+    {
+      "id": 2,
+      "title": "Company News Article 2",
+      "author": "Author 2",
+      "body": "Summary of company news article 2",
+      "link": "http://example.com/company-news-2"
+    }
+  ]
+}
