@@ -4,7 +4,6 @@ import Navbar from "./components/NavBar";
 import Header from "./components/Header";
 import General from "./components/General";
 import Companies from "./components/Companies";
-import data from "./db.json";
 
 export const routes = [
   { path: "/", name: "Home", component: <Header /> },
